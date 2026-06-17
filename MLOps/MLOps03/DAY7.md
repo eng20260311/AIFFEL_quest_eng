@@ -1,12 +1,12 @@
-# Day 6-(프로젝트1)정형데이터 예측 서비스
+# Day 7-(프로젝트2) 트랜스포머 챗봇 서비스
 
 
 > 제출 항목
-> 1. 테스트 1 ~ 4 실행결과
+ 1. 테스트 1 ~ 4 실행결과
 
   2. UI 테스트 1 ~4 수행내역 캡처
->
-  3. 각 섹션 체크포인트의 답변
+
+    3. 각 섹션 체크포인트의 답변
 
 
 ## 1. 테스트 1 ~4 
@@ -65,31 +65,40 @@ POST /chat -> 422 (0.006s)
   요청 #4: 9.1초 (HTTP 200)
   전체: 9.2초
 
-## 1. UI테스트 1 ~4 
-### 테스트1 
+## 1. UI테스트 A ~D
+### 테스트A
+
+
+
+<img width="1151" height="623" alt="image" src="https://github.com/user-attachments/assets/5a86a1cf-c18b-48dd-a631-9857413d35ad" />
+
+
+### 테스트B
+
+
+
+<img width="1084" height="638" alt="image" src="https://github.com/user-attachments/assets/ceb58ad1-27c2-4424-b175-d9ce1ae2c0b8" />
+
+
+<img width="1127" height="644" alt="image" src="https://github.com/user-attachments/assets/c050b39a-07df-4b30-b640-192f25bac4a0" />
+
+### 테스트C
 
 
 
 
-
-### 테스트2
-
-
-
-
-
-### 테스트3 
-
-
-
-
+<img width="1175" height="643" alt="image" src="https://github.com/user-attachments/assets/72e02080-f063-4b7d-b37f-8551d19d77ab" />
 
 
 ### 테스트4 
 
 
+<img width="1187" height="638" alt="image" src="https://github.com/user-attachments/assets/a5670b0d-1c4c-4f27-ba08-9b1dd5e3bfe9" />
+
+<img width="1164" height="668" alt="image" src="https://github.com/user-attachments/assets/5183a54b-2ed4-466f-8c2c-6758ac3a2c15" />
 
 
+<img width="1085" height="620" alt="image" src="https://github.com/user-attachments/assets/899be6f8-2098-46d8-ae18-d51ba305bdd6" />
 
 
 ### 섹션 1
