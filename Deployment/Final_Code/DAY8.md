@@ -9,28 +9,32 @@
 >
   3. 프로젝트 회고 
 
-### 섹션 1
+## 섹션 1
 
-## 1.실행 첫 화면 
+### 1.실행 첫 화면 
 
+<img width="1200" height="655" alt="image" src="https://github.com/user-attachments/assets/e03d4ba4-8731-44a1-a1e7-2bdf462a12d4" />
 
+업로드 된 pdf파일을 삭제시 초기화 화면으로 돌아옴
+### 2.논문 요약 실행
 
-## 2.논문 요약 실행
-
-
-
-
-## 3.논문 요약 번역
+<img width="1180" height="619" alt="image" src="https://github.com/user-attachments/assets/6ee1097a-2f06-4e22-8bb9-171404a2dea4" />
 
 
 
 
-## 4.멀티턴 대화 실행 
+### 3.논문 요약 번역
 
 
+<img width="897" height="525" alt="image" src="https://github.com/user-attachments/assets/8810cfcf-5ac6-4498-9ec1-895921188783" />
 
 
-### 섹션 2(체크포인트)
+### 4.멀티턴 대화 실행 
+
+
+<img width="704" height="395" alt="image" src="https://github.com/user-attachments/assets/babe5226-7635-481c-859c-b10ce49a3f31" />
+
+## 섹션 2(체크포인트)
    
 Q1. Pydantic 검증이 막아주는 잘못된 입력
 paper_schemas.py의 제약 조건들이 막아줍니다:
@@ -71,7 +75,7 @@ HTTPS·도메인·실 환경 API Key 관리(환경변수/시크릿), 사용량 �
 
 
 
-### 섹션 3(프로젝트 회고)
+## 섹션 3(프로젝트 회고)
 
 멀티턴 대화에서 인코더와 디코더의 답변이 디코더는 입력에서 출력을 생성하고, 이를 위해 인코더와 연결되어 있는 곳을 디코더라고 합니다. 그들은 단순히 입력과 출력을 연결한 곳을 디코더라고 합니다. 라고 답변함
  ----->  파이프라인 버그가 아니라 0.5B 소형 모델 + CPU의 품질 한계
